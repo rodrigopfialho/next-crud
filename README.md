@@ -1,10 +1,5 @@
 <h1 align="center">Next-Crud</h1>
 
-
-<p align="center"> 
-    <img src="./src/assets/p1.png">
-</p>
-
 <p align="center">Cadastro simples. com funcionalidades de criar e deletar</p>
 
 # TECNOLOGIAS 
